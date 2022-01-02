@@ -7,5 +7,5 @@ cp -i .bashrc{,.bak}
 cp -i /etc/skel/.bashrc ~/
 source ~/.bashrc
 echo 'reboot:)'
-   reboot
+sudo reboot
 fi
